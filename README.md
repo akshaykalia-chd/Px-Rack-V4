@@ -8,7 +8,7 @@ Most of its structural components are 3D printable, making it accessible and aff
 Whether you're optimizing airflow, managing cables, or experimenting with multi-node setups, Px-Rack gives you the freedom to build your infrastructure your way.
 
 ## Repository stroucture 
-
+```
 Px-Rack/
 ├── BOMs/
 │   ├── 2-Node_BOM.csv
@@ -25,3 +25,4 @@ Px-Rack/
 │   │   ├── PART_002_PLA.stl
 └── README.md
     └── Introduction to Px-Rack, build instructions, and licensing.
+```
