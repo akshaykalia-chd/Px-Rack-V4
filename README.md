@@ -1,10 +1,14 @@
 ## What is a Px-Rack
 
-Px-Rack is a modular DIY computer rack-style enclosure built for creators who value scalability, customization, and hands-on engineering. Designed to integrate multiple [Mini-ITX](https://en.wikipedia.org/wiki/Mini-ITX) motherboards into a single compact unit, Px-Rack is ideal for homelabs, clustered compute nodes, or multi-OS test environments.
+Personal Experience Rack, or Px-Rack, is a modular DIY computer rack-style enclosure built for creators who value scalability, customization, and hands-on engineering. Designed to integrate multiple [Mini-ITX](https://en.wikipedia.org/wiki/Mini-ITX) motherboards into a single compact unit, Px-Rack is ideal for homelabs, clustered compute nodes, or multi-OS test environments.
 
 The first use case is [Broadcom VMware Cloud Foundation](https://www.vmware.com/products/cloud-infrastructure/vmware-cloud-foundation). 
 
 ## What sets Px-Rack apart? 
+Portable. Other racks are not purpose-built for VMware ESXi hosts, resulting in multiple external power cables and network cables. The width and length, as opposed to the height, are critical to ensure cables (10 Gb optical fibre and power cables) are neatly tucked inside. 
+
+1 power cable. Px-Rack has ___ that connects multiple power supplies into a single external cable. No need to carry extension cords!
+
 Most of its structural components are 3D printable, making it accessible and affordable for solo builders and makers. This GitHub repository provides all the STL files you need to start printing and assembling your own Px-Rack—no proprietary parts, no guesswork, just open-source flexibility and community-driven design.
 
 Whether you're optimizing airflow, managing cables, or experimenting with multi-node setups, Px-Rack gives you the freedom to build your infrastructure your way.
