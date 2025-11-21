@@ -55,7 +55,7 @@ By accessing or using the Px-Rack repository, you agree to the following terms:
 - All files are provided "as is" without warranty. Users are responsible for safe printing, assembly, and deployment.
 - Redistribution of files must retain original attribution and must not misrepresent the origin or intent of the project.
 
-## Contact details
+## 📬 Contact details
 - **Name:** Akshay Kalia
 - **Email:** akshay@vmzoneblog.com
 - **Location:** Bengaluru, Karnataka, India
