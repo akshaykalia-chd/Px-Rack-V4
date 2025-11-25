@@ -8,3 +8,5 @@ Each step includes a parts list along with the required mounting screws and nuts
 However, Electronics integration will take place after **Step-2**, and by the end of **Step-3** all electronics should be in place, except for the ventilation fans. The fans will be installed after **Step-4** and before **Step-5**.
 
 *Electronics integration is slightly nuanced and cannot be explained adequately using drawings. I will include videos for this process in the near future.*
+
+![img.png](img/img.png)
