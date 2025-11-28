@@ -1,4 +1,4 @@
-##📑 Design Note: Why not to build a 3 Node PX‑Rack enclosure##
+## 📑 One Enclosure, Many Paths: The Case Against 3 Node enclosure ##
 
 This section clarifies why PX‑Rack explicitly avoids 3‑Node enclosure configuration, and why the project encourages builders to adopt a 2-Node/4‑Node enclosure as the baseline for scalable, reproducible builds.
 
@@ -24,6 +24,6 @@ This section clarifies why PX‑Rack explicitly avoids 3‑Node enclosure config
 2. This approach ensures builders are never restricted by their initial enclosure choice. Starting with a 4‑Node frame means growth is always possible without redesign or replacement. 
 3. Restricting to a 3-Node enclosure locks builders into a dead‑end path, contradicting PX‑Rack’s philosophy of future‑proof modularity.
 
-##📌 Conclusion##
+## 📌 Conclusion ##
 
 PX‑Rack deliberately avoids 3‑Node configuration because it undermines clarity and reproducibility. Instead, the 2‑Node enclosure is the baseline and 4-Node is the next configuration. 4-Node enclosure supports builds from 1 to 4 nodes, ensuring scalability, symmetry, and future‑proof growth. Builders are encouraged to choose this path to keep every PX‑Rack build accessible, robust, and aligned with the project’s open‑source philosophy.
