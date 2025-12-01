@@ -1,4 +1,4 @@
-This folder containes 8 STL as under 
+**This folder contains 8 STL as under** 
 
 1. 3d-2025-11-ABS-PLUS-001a.stl
 2. 3d-2025-11-ABS-PLUS-001b.stl
