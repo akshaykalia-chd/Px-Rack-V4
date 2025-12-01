@@ -1,4 +1,6 @@
-This folder contains 10 STL as under 
+## Folder Contents: ## 
+
+This folder contains 10 STL files as under 
 
 1. 3d-2025-11-PLA-001.stl
 2. 3d-2025-11-PLA-002.stl
@@ -11,9 +13,26 @@ This folder contains 10 STL as under
 9. 3d-2025-11-PLA-010.stl
 10. 3d-2025-11-PLA-011.stl
 
-The STL should be printed using following parameters 
+The STL must be printed using the following parameters at a minimum. Stronger and higher-quality configurations are acceptable
 
-**Material** : PETG-Pro/PETG/PLA-Pro/PLA
+## 3D Print parameters ##
 
-**Infill** : 50% or above
+### Quality ###
 
+1. Material: Ranked recommendation
+   1. PETG-Pro
+   2. PETG
+   3. PLA-Pro
+   4. PLA
+2. Infill: 50% or above
+3. Layer height: 0.28 mm
+4. First Layer height: 0.24 mm
+5. Precise Wall: True
+
+### Strength ###
+
+1. Top Surface pattern: Rectilinear 
+2. Botton Surface pattern:Rectilinear
+3. Sparse Infill density: 50% 
+4. Sparse Infill pattern: Tri-hexagon
+5. Internal solid Infill pattern: Rectilinear
