@@ -23,9 +23,9 @@ Unlike traditional racks designed for data centers or server rooms, PX-Rack is p
 
 **PCT wire connectors:**
 
-![img.png](img/img.png) 
-![img.png](img/img_2.png)
-![img_1.png](img/img_1.png)
+![img.png](img/PTC-2-Terminal.png) 
+![img.png](img/PCT-2T.png)
+![img_1.png](img/PCT-3x2.png)
 
 
 **📏 Optimized Dimensions**
