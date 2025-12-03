@@ -6,16 +6,16 @@ By design, the 2‑Node PX‑Rack supports up to two Mini‑ITX motherboards of 
 
 ## Part Naming Convention in the Bill of Materials
 
-The part names is the bill of materials follow te follwing pattren 
-1. **3d‑YYYY‑MM‑XXX‑XXXXX‑nnnA:** All part numbers with this format must be 3D printed.
+The part names is the bill of materials follows the following pattern 
+1. **3d‑YYYY‑MM‑XXX‑XXXXX‑nnnA:** All part names with this format must be 3D printed.
    1. *YYYY:* The year in which the part design was last modified. 
    2. *MM:* The month in which the part design was last modified. 
    3. *XXX‑XXXX:* Specifies the material information the part should be printed in. 
    4. *nnnA:* A number followed by a letter. All parts that are joined together to form one unit will share the same numerical portion, followed by an incremental alphabet character.
-2. **AAAAAAA‑nnnmm:** All parts with this format must be purchased and cut to length
+2. **AAAAAAA‑nnnmm:** All parts names with this format must be purchased and cut to length
    1. AAAAAAA: Defines the type of part. 
    2. nnnmm: Length of the part in millimeters. 
-3. **AAAAAA‑AAAAA:** All parts with this format must be purchased.
+3. **AAAAAA‑AAAAA:** All parts names with this format must be purchased.
 
 ### Sample Part Links
 
